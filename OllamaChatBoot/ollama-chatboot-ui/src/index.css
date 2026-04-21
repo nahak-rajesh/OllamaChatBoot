@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+/* Custom scroll bar for chat */
+::-webkit-scrollbar {
+  width: 8px;
+}
+::-webkit-scrollbar-thumb {
+  background: #ccc;
+  border-radius: 10px;
+}
